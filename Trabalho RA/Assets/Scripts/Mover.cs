@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MoverCubo : MonoBehaviour
+public class Mover : MonoBehaviour
 {
 
 	// Use this for initialization
